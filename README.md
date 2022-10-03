@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @99Thushantha
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Fullstack Development
-- 💞️ I’m looking to collaborate on people who are interested for software development
 - 📫 How to reach me - 99thushanthaperera@gmail.com
 
 <!---
